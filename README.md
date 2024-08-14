@@ -1,1 +1,2 @@
 # cryptit
+go module
